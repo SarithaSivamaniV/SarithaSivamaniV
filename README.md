@@ -1,39 +1,66 @@
-![Banner](banner.png)
-
-<h1>About Me</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none;" />
-
-I’m a motivated learner with a strong interest in UI/UX Design 🎨, Web Development 💻, and Data Analytics 📊. I enjoy transforming ideas into user-friendly digital experiences using tools like Figma and web technologies such as HTML, CSS, JavaScript,  ReactJS and MySQL.
-
-I have hands-on experience working with vibe coding tools like V0 by Vercel, Lovable, Bolt, Windsurf, and Google AI Studio, along with Excel, Power BI, and Tableau ⚙️📈. I have developed projects including an online book purchasing website (designed in Figma), a personal AI assistant using Google AI Studio, a self-built portfolio website created during my internship, a to-do list application using Bolt, and other web-based applications. These projects have helped me strengthen both my design and development skills through practical, real-world experience.
-
-I am continuously learning, improving my problem-solving abilities, and preparing myself for industry-ready challenges 🚀✨.
-
-<h1>Tech Stack</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none;" />
-
+<!-- INTRO BANNER -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,bootstrap,mysql" />
+  <img src="Introbanner.png" alt="Intro Banner" />
 </p>
 
-<h1>My GitHub Stats</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none;" />
+<!-- ABOUT ME -->
+<h1 align="center">About Me</h1>
+<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165"/>
+I am a motivated learner with a strong interest in <b>UI/UX Design</b>, <b>Web Development</b>, and <b>Data Analytics</b>.
+I enjoy transforming ideas into clean, intuitive, and user-friendly digital experiences using design tools like
+<b>Figma</b> and modern web technologies such as <b>HTML, CSS, JavaScript, ReactJS,</b> and <b>MySQL</b>.
 </p>
-
-<h1>GitHub Streak</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none;" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+I have hands-on experience working with vibe-coding and AI tools including <b>V0 by Vercel</b>, <b>Lovable</b>,
+<b>Bolt</b>, <b>Windsurf</b>, and <b>Google AI Studio</b>, along with data tools like
+<b>Excel</b>, <b>Power BI</b>, and <b>Tableau</b>.
 </p>
 
-<h1>Connect With Me</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none;" 
+<p align="center">
+My projects include an <b>online book purchasing website</b> designed in Figma, a <b>personal AI assistant</b> built
+using Google AI Studio, a <b>portfolio website</b> developed during my internship, and a <b>to-do list application</b>
+created using Bolt. These experiences have helped me strengthen both my design thinking and development skills
+through real-world problem solving.
+</p>
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin  
-- 🎨 Portfolio: https://your-portfolio-link  
-- 📧 Email: yourmail@gmail.com  
+<p align="center">
+I am continuously learning, improving my technical abilities, and preparing myself for industry-ready challenges 🚀
+</p>
+
+<!-- TECH STACK -->
+<h1 align="center">Tech Stack</h1>
+<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql" />
+</p>
+
+<!-- GITHUB STATS -->
+<h1 align="center">My GitHub Stats</h1>
+<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165"/>
+</p>
+
+<!-- GITHUB STREAK -->
+<h1 align="center">GitHub Streak</h1>
+<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+</p>
+
+<!-- CONNECT -->
+<h1 align="center">Connect With Me</h1>
+<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
+
+<p align="center">
+💼 <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> &nbsp;|&nbsp;
+🎨 <a href="https://your-portfolio-link">Portfolio</a> &nbsp;|&nbsp;
+📧 yourmail@gmail.com
+</p>

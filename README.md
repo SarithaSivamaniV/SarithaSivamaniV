@@ -5,7 +5,7 @@
 
 <!-- ABOUT ME -->
 <h1 align="center">About Me</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
+
 
 <p align="center">
 I am a motivated learner with a strong interest in <b>UI/UX Design</b>, <b>Web Development</b>, and <b>Data Analytics</b>.

@@ -50,7 +50,7 @@ I enjoy transforming ideas into clean, intuitive, and user-friendly digital expe
   <a href="https://your-ai-assistant-link" target="_blank">
     <img src="https://img.shields.io/badge/AI%20Assistant-6A5ACD?style=for-the-badge" style="border-radius: 20px;" />
   </a>
-  <a href="https://your-portfolio-link" target="_blank">
+  <a href="https://mysportfolio.neocities.org/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Website-0EA5E9?style=for-the-badge" style="border-radius: 20px;" />
   </a>
   <a href="https://your-todo-link" target="_blank">
@@ -78,6 +78,6 @@ I enjoy transforming ideas into clean, intuitive, and user-friendly digital expe
 <h1 align="center">Connect With Me</h1>
 <p align="center">
 🔗 <a href="https://www.linkedin.com/in/saritha-sivamani-a24890286/">LinkedIn</a> &nbsp;|&nbsp;
-🌐 <a href="https://your-portfolio-link">Portfolio</a> &nbsp;|&nbsp;
-📧 yourmail@gmail.com
+🌐 <a href="https://mysportfolio.neocities.org/Portfolio/">Portfolio</a> &nbsp;|&nbsp;
+📧 saritha120305@gmail.com
 </p>

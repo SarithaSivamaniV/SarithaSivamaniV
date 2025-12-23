@@ -4,34 +4,32 @@
 </p>
 
 <!-- ABOUT ME -->
-<h1 align="center">About Me</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
+<h1>About Me</h1>
 
-<p align="center">
-I am a motivated learner with a strong interest in <b>UI/UX Design</b>, <b>Web Development</b>, and <b>Data Analytics</b>.
+<p>
+   I am a motivated learner with a strong interest in <b>UI/UX Design</b>, <b>Web Development</b>, and <b>Data Analytics</b>.
 I enjoy transforming ideas into clean, intuitive, and user-friendly digital experiences using tools like
 <b>Figma</b> and modern web technologies such as <b>HTML, CSS, JavaScript, ReactJS</b>, and <b>MySQL</b>.
 </p>
 
-<p align="center">
+<p>
 I have hands-on experience with vibe-coding and AI tools including <b>V0 by Vercel</b>, <b>Lovable</b>,
 <b>Bolt</b>, <b>Windsurf</b>, and <b>Google AI Studio</b>, along with data tools such as
 <b>Excel</b>, <b>Power BI</b>, and <b>Tableau</b>.
 </p>
 
-<p align="center">
+<p>
 My projects include an <b>online book purchasing website</b> (Figma), a <b>personal AI assistant</b>,
 a <b>portfolio website</b> built during my internship, and a <b>to-do list application</b>.
 These projects strengthened my design thinking and real-world development skills.
 </p>
 
-<p align="center">
+<p>
 I am continuously learning and preparing myself for industry-ready challenges 🚀
 </p>
 
 <!-- TECH STACK -->
 <h1 align="center">Tech Stack</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql" />
@@ -39,16 +37,14 @@ I am continuously learning and preparing myself for industry-ready challenges �
 
 <!-- GITHUB STATS -->
 <h1 align="center">My GitHub Stats</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarithaSivamaniV&show_icons=true&theme=radical" height="165"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=SarithaSivamaniV&show_icons=true&theme=radical" height="165"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarithaSivamaniV&layout=compact&theme=radical" height="165"/>
 </p>
 
 <!-- GITHUB STREAK -->
 <h1 align="center">GitHub Streak</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SarithaSivamaniV&theme=radical" />
@@ -56,10 +52,9 @@ I am continuously learning and preparing myself for industry-ready challenges �
 
 <!-- CONNECT -->
 <h1 align="center">Connect With Me</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
 <p align="center">
-💼 <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> &nbsp;|&nbsp;
-🎨 <a href="https://your-portfolio-link">Portfolio</a> &nbsp;|&nbsp;
+🔗 <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> &nbsp;|&nbsp;
+🌐 <a href="https://your-portfolio-link">Portfolio</a> &nbsp;|&nbsp;
 📧 yourmail@gmail.com
 </p>

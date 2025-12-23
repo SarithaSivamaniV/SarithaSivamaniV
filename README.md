@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Saritha!&fontSize=50&fontAlignY=40&desc=UI/UX%20Designer%20|%20Web%20Developer%20in%20the%20Making&descAlignY=60)
+![Banner](banner.png)
 About Me
 
 

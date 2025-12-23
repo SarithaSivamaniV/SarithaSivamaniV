@@ -6,33 +6,31 @@
 <!-- ABOUT ME -->
 <h1 align="center">About Me</h1>
 
-
-<p align="center">
+<p align="left">
 I am a motivated learner with a strong interest in <b>UI/UX Design</b>, <b>Web Development</b>, and <b>Data Analytics</b>.
 I enjoy transforming ideas into clean, intuitive, and user-friendly digital experiences using design tools like
 <b>Figma</b> and modern web technologies such as <b>HTML, CSS, JavaScript, ReactJS,</b> and <b>MySQL</b>.
 </p>
 
-<p align="center">
+<p align="left">
 I have hands-on experience working with vibe-coding and AI tools including <b>V0 by Vercel</b>, <b>Lovable</b>,
 <b>Bolt</b>, <b>Windsurf</b>, and <b>Google AI Studio</b>, along with data tools like
 <b>Excel</b>, <b>Power BI</b>, and <b>Tableau</b>.
 </p>
 
-<p align="center">
+<p align="left">
 My projects include an <b>online book purchasing website</b> designed in Figma, a <b>personal AI assistant</b> built
 using Google AI Studio, a <b>portfolio website</b> developed during my internship, and a <b>to-do list application</b>
 created using Bolt. These experiences have helped me strengthen both my design thinking and development skills
 through real-world problem solving.
 </p>
 
-<p align="center">
+<p align="left">
 I am continuously learning, improving my technical abilities, and preparing myself for industry-ready challenges 🚀
 </p>
 
 <!-- TECH STACK -->
 <h1 align="center">Tech Stack</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql" />
@@ -40,7 +38,6 @@ I am continuously learning, improving my technical abilities, and preparing myse
 
 <!-- GITHUB STATS -->
 <h1 align="center">My GitHub Stats</h1>
-<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>

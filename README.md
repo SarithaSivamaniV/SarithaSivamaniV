@@ -1,7 +1,9 @@
 <!-- INTRO BANNER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f84e659-df6e-4be5-920c-21b23cd746c1" alt="Intro Banner" />
+  <img src="https://github.com/user-attachments/assets/2f84e659-df6e-4be5-920c-21b23cd746c1" alt="Intro Banner" height="280"
+    style="object-fit: cover />
 </p>
+
 
 <!-- ABOUT ME -->
 <h1>About Me</h1>
@@ -51,10 +53,10 @@ I am continuously learning and preparing myself for industry-ready challenges �
 </p>
 
 <!-- CONNECT -->
-<h1 align="center">Connect With Me</h1>
+<h1 align="center">Connect With Me</h1> 
 
 <p align="center">
-🔗 <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> &nbsp;|&nbsp;
+🔗 <a href="https://www.linkedin.com/in/saritha-sivamani-a24890286/">LinkedIn</a> &nbsp;|&nbsp;
 🌐 <a href="https://your-portfolio-link">Portfolio</a> &nbsp;|&nbsp;
 📧 yourmail@gmail.com
 </p>

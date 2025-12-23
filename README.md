@@ -1,6 +1,6 @@
 <!-- INTRO BANNER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f84e659-df6e-4be5-920c-21b23cd746c1" alt="Intro Banner"/>
+  <img width="1536" height="732" alt="ChatGPT Image Dec 23, 2025, 07_06_55 PM" src="https://github.com/user-attachments/assets/5a25f39a-13de-4255-8fe9-dd59f95509bb" />
 </p>
 
 

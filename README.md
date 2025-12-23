@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-About Me
+<h1>About Me</h1>
 <hr style="height:3px; background-color:#ff4d8d; border:none;" />
 
 I’m a motivated learner with a strong interest in UI/UX Design 🎨, Web Development 💻, and Data Analytics 📊. I enjoy transforming ideas into user-friendly digital experiences using tools like Figma and web technologies such as HTML, CSS, JavaScript,  ReactJS and MySQL.
@@ -9,14 +9,14 @@ I have hands-on experience working with vibe coding tools like V0 by Vercel, Lov
 
 I am continuously learning, improving my problem-solving abilities, and preparing myself for industry-ready challenges 🚀✨.
 
-Tech Stack
+<h1>Tech Stack</h1>
 <hr style="height:3px; background-color:#ff4d8d; border:none;" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,bootstrap,mysql" />
 </p>
 
-My GitHub Stats
+<h1>My GitHub Stats</h1>
 <hr style="height:3px; background-color:#ff4d8d; border:none;" />
 
 <p align="center">
@@ -24,14 +24,14 @@ My GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165"/>
 </p>
 
-GitHub Streak
+<h1>GitHub Streak</h1>
 <hr style="height:3px; background-color:#ff4d8d; border:none;" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
 </p>
 
-Connect With Me
+<h1>Connect With Me</h1>
 <hr style="height:3px; background-color:#ff4d8d; border:none;" 
 
 - 💼 LinkedIn: https://linkedin.com/in/your-linkedin  

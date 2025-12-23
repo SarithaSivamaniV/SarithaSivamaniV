@@ -1,7 +1,6 @@
 <!-- INTRO BANNER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f84e659-df6e-4be5-920c-21b23cd746c1" alt="Intro Banner" height="280"
-    style="object-fit: cover />
+  <img src="https://github.com/user-attachments/assets/2f84e659-df6e-4be5-920c-21b23cd746c1" alt="Intro Banner" height="280 width=100% style="object-fit: cover />
 </p>
 
 

@@ -26,18 +26,18 @@ I enjoy transforming ideas into clean, intuitive, and user-friendly digital expe
 <!-- TECH STACK -->
 <h1 align="center">Tech Stack</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql" style="border-radius: 20px;"/>
 </p> 
 
 
 <!-- VIBE CODING -->
 <h1 align="center">Vibe Coding Tools <h5>I know!</h5></h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/V0%20by%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logo=heart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bolt-FF6B00?style=for-the-badge&logo=lightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=wave&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/V0%20by%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="border-radius: 20px;"/>
+  <img src="https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logo=heart&logoColor=white" style="border-radius: 20px;"/>
+  <img src="https://img.shields.io/badge/Bolt-FF6B00?style=for-the-badge&logo=lightning&logoColor=white" style="border-radius: 20px;"/>
+  <img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=wave&logoColor=white" style="border-radius: 20px;"/>
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" style="border-radius: 20px;"/>
 </p>
 
 
@@ -45,22 +45,22 @@ I enjoy transforming ideas into clean, intuitive, and user-friendly digital expe
 
 <p align="center">
   <a href="https://your-book-project-link" target="_blank">
-    <img src="https://img.shields.io/badge/Online%20Book%20Store-FF4D8D?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Online%20Book%20Store-FF4D8D?style=for-the-badge" style="border-radius: 20px;"/>
   </a>
   <a href="https://your-ai-assistant-link" target="_blank">
-    <img src="https://img.shields.io/badge/AI%20Assistant-6A5ACD?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/AI%20Assistant-6A5ACD?style=for-the-badge" style="border-radius: 20px;" />
   </a>
   <a href="https://your-portfolio-link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Website-0EA5E9?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio%20Website-0EA5E9?style=for-the-badge" style="border-radius: 20px;" />
   </a>
   <a href="https://your-todo-link" target="_blank">
-    <img src="https://img.shields.io/badge/To--Do%20App-22C55E?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/To--Do%20App-22C55E?style=for-the-badge" style="border-radius: 20px;" />
   </a>
   <a href="https://your-dashboard-link" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Dashboard-F59E0B?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Data%20Dashboard-F59E0B?style=for-the-badge" style="border-radius: 20px;" />
   </a>
   <a href="https://your-figma-project-link" target="_blank">
-    <img src="https://img.shields.io/badge/Figma%20UI%20Design-EC4899?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Figma%20UI%20Design-EC4899?style=for-the-badge" style="border-radius: 20px;" />
   </a>
 </p>
 

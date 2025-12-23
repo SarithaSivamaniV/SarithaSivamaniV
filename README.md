@@ -1,36 +1,37 @@
 <!-- INTRO BANNER -->
 <p align="center">
-  <img width="1536" height="1024" alt="Introbanner" src="https://github.com/user-attachments/assets/2f84e659-df6e-4be5-920c-21b23cd746c1" />
+  <img src="https://github.com/user-attachments/assets/2f84e659-df6e-4be5-920c-21b23cd746c1" alt="Intro Banner" />
 </p>
 
 <!-- ABOUT ME -->
 <h1 align="center">About Me</h1>
+<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
-<p align="left">
+<p align="center">
 I am a motivated learner with a strong interest in <b>UI/UX Design</b>, <b>Web Development</b>, and <b>Data Analytics</b>.
-I enjoy transforming ideas into clean, intuitive, and user-friendly digital experiences using design tools like
-<b>Figma</b> and modern web technologies such as <b>HTML, CSS, JavaScript, ReactJS,</b> and <b>MySQL</b>.
+I enjoy transforming ideas into clean, intuitive, and user-friendly digital experiences using tools like
+<b>Figma</b> and modern web technologies such as <b>HTML, CSS, JavaScript, ReactJS</b>, and <b>MySQL</b>.
 </p>
 
-<p align="left">
-I have hands-on experience working with vibe-coding and AI tools including <b>V0 by Vercel</b>, <b>Lovable</b>,
-<b>Bolt</b>, <b>Windsurf</b>, and <b>Google AI Studio</b>, along with data tools like
+<p align="center">
+I have hands-on experience with vibe-coding and AI tools including <b>V0 by Vercel</b>, <b>Lovable</b>,
+<b>Bolt</b>, <b>Windsurf</b>, and <b>Google AI Studio</b>, along with data tools such as
 <b>Excel</b>, <b>Power BI</b>, and <b>Tableau</b>.
 </p>
 
-<p align="left">
-My projects include an <b>online book purchasing website</b> designed in Figma, a <b>personal AI assistant</b> built
-using Google AI Studio, a <b>portfolio website</b> developed during my internship, and a <b>to-do list application</b>
-created using Bolt. These experiences have helped me strengthen both my design thinking and development skills
-through real-world problem solving.
+<p align="center">
+My projects include an <b>online book purchasing website</b> (Figma), a <b>personal AI assistant</b>,
+a <b>portfolio website</b> built during my internship, and a <b>to-do list application</b>.
+These projects strengthened my design thinking and real-world development skills.
 </p>
 
-<p align="left">
-I am continuously learning, improving my technical abilities, and preparing myself for industry-ready challenges 🚀
+<p align="center">
+I am continuously learning and preparing myself for industry-ready challenges 🚀
 </p>
 
 <!-- TECH STACK -->
 <h1 align="center">Tech Stack</h1>
+<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql" />
@@ -38,9 +39,10 @@ I am continuously learning, improving my technical abilities, and preparing myse
 
 <!-- GITHUB STATS -->
 <h1 align="center">My GitHub Stats</h1>
+<hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SarithaSivamaniV&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarithaSivamaniV&layout=compact&theme=radical" height="165"/>
 </p>
 

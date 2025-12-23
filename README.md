@@ -1,6 +1,6 @@
 <!-- INTRO BANNER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f84e659-df6e-4be5-920c-21b23cd746c1" alt="Intro Banner" height="280 width=100% style="object-fit: cover />
+  <img src="https://github.com/user-attachments/assets/2f84e659-df6e-4be5-920c-21b23cd746c1" alt="Intro Banner"/>
 </p>
 
 
@@ -14,19 +14,19 @@ I enjoy transforming ideas into clean, intuitive, and user-friendly digital expe
 </p>
 
 <p>
-I have hands-on experience with vibe-coding and AI tools including <b>V0 by Vercel</b>, <b>Lovable</b>,
+   I have hands-on experience with vibe-coding and AI tools including <b>V0 by Vercel</b>, <b>Lovable</b>,
 <b>Bolt</b>, <b>Windsurf</b>, and <b>Google AI Studio</b>, along with data tools such as
 <b>Excel</b>, <b>Power BI</b>, and <b>Tableau</b>.
 </p>
 
 <p>
-My projects include an <b>online book purchasing website</b> (Figma), a <b>personal AI assistant</b>,
+   My projects include an <b>online book purchasing website</b> (Figma), a <b>personal AI assistant</b>,
 a <b>portfolio website</b> built during my internship, and a <b>to-do list application</b>.
 These projects strengthened my design thinking and real-world development skills.
 </p>
 
 <p>
-I am continuously learning and preparing myself for industry-ready challenges ðŸš€
+   I am continuously learning and preparing myself for industry-ready challenges ðŸš€
 </p>
 
 <!-- TECH STACK -->
@@ -36,6 +36,18 @@ I am continuously learning and preparing myself for industry-ready challenges ðŸ
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql" />
 </p>
 
+<!-- VIBE CODING -->
+<h1 align="center">Vibe Coding Tools </h1>
+<p>I know!</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/V0%20by%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logo=heart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bolt-FF6B00?style=for-the-badge&logo=lightning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=wave&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+
 <!-- GITHUB STATS -->
 <h1 align="center">My GitHub Stats</h1>
 
@@ -44,12 +56,7 @@ I am continuously learning and preparing myself for industry-ready challenges ðŸ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarithaSivamaniV&layout=compact&theme=radical" height="165"/>
 </p>
 
-<!-- GITHUB STREAK -->
-<h1 align="center">GitHub Streak</h1>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SarithaSivamaniV&theme=radical" />
-</p>
+>
 
 <!-- CONNECT -->
 <h1 align="center">Connect With Me</h1> 

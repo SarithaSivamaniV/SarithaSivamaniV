@@ -1,6 +1,6 @@
 <!-- INTRO BANNER -->
 <p align="center">
-  <img src="Introbanner.png" alt="Intro Banner" />
+  <img width="1536" height="1024" alt="Introbanner" src="https://github.com/user-attachments/assets/2f84e659-df6e-4be5-920c-21b23cd746c1" />
 </p>
 
 <!-- ABOUT ME -->
@@ -41,7 +41,7 @@ I am continuously learning, improving my technical abilities, and preparing myse
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarithaSivamaniV&layout=compact&theme=radical" height="165"/>
 </p>
 
 <!-- GITHUB STREAK -->
@@ -49,7 +49,7 @@ I am continuously learning, improving my technical abilities, and preparing myse
 <hr style="height:3px; background-color:#ff4d8d; border:none; width:60%; margin:auto;" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=SarithaSivamaniV&theme=radical" />
 </p>
 
 <!-- CONNECT -->

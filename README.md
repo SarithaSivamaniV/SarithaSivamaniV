@@ -26,7 +26,7 @@ I enjoy transforming ideas into clean, intuitive, and user-friendly digital expe
 <!-- TECH STACK -->
 <h1 align="center">Tech Stack</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,mysql" style="border-radius: 20px;"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,mysql,java" style="border-radius: 20px;"/>
 </p> 
 
 

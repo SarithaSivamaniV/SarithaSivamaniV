@@ -41,7 +41,7 @@ I enjoy transforming ideas into clean, intuitive, and user-friendly digital expe
 </p>
 
 
-<h1 align="center">Project Links</h1>
+<h1 align="center">Project</h1>
 
 <p align="center">
   <a href="https://your-book-project-link" target="_blank">
